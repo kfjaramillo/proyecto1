@@ -1,3 +1,4 @@
 Archivo 3
 Nueva línea en el archivo3 por rama2
 Nueva línea en el archivo3 por master
+Esta línea se ha modificado en la rama4
