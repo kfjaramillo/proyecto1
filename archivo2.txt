@@ -1,2 +1,3 @@
 Archivo 2
 Prueba para prueba de add .
+Nueva línea por rama2
