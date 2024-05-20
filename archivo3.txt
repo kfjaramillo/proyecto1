@@ -1,2 +1,3 @@
 Archivo 3
 Nueva línea en el archivo3 por rama2
+Nueva línea en el archivo3 por master
